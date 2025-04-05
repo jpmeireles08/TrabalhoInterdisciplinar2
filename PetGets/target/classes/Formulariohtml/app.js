@@ -20,7 +20,7 @@ async function  getImgURL(){
   const options = {
     method: "post",
     headers:{
-      Authorization: "Client-ID b573c0344482155"
+      Authorization: "CLIENT_ID"
     },
     body: file
 
